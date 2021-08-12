@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src=”https://i.pinimg.com/564x/db/28/81/db2881f811be5d79e16a83cfa5b83674.jpg”>
 <!--
 **FrankiPLCZ/FrankiPLCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
