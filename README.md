@@ -5,7 +5,7 @@
 <table> 
    <tr>
    <td>
-      :blue_book: I have the most experience in
+      :blue_book: I'm the most experience in
    </td>
    <td>
       <img align="left" alt="Kotlin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" />
