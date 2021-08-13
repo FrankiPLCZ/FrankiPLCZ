@@ -13,7 +13,7 @@
   
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
   
-  <div style="background-color: yellow">
+  <div style=margin-left: auto;margin-right: auto;>
     
     [![Spotify](https://novatorem-alpha-green.vercel.app/api/spotify)](https://open.spotify.com/user/11125642620)
     
