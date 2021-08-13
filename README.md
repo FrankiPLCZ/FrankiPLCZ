@@ -8,16 +8,16 @@
       :blue_book: I'm the most experience in
    </td>
    <td>
-      <img align="left" alt="Kotlin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" />
-      <img align="left" alt="JS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-   Unofficial_JavaScript_logo_2.svg.png" />
-      <img align="left" alt="Java" width="40px" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png" />
-      <img align="left" alt="MySQL" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png" />
-      <img align="left" alt="C#" width="40px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
-      <img align="left" alt="Unity" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/unity-logo.png" />
-      <img align="left" alt="AndroidStudio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" />
-      <img align="left" alt="VisualStudioCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
-      <img align="left" alt="Github" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />
-      <img align="left" alt="VisualStudio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
+      <img align="left" alt="Kotlin" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" />
+      <img align="left" alt="JS" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-   Unofficial_JavaScript_logo_2.svg.png" />
+      <img align="left" alt="Java" width="38px" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png" />
+      <img align="left" alt="MySQL" width="38px" src="https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png" />
+      <img align="left" alt="C#" width="38px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
+      <img align="left" alt="Unity" width="38px" src="https://brandslogos.com/wp-content/uploads/images/large/unity-logo.png" />
+      <img align="left" alt="AndroidStudio" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" />
+      <img align="left" alt="VisualStudioCode" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
+      <img align="left" alt="Github" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />
+      <img align="left" alt="VisualStudio" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
    </td>
    <tr>
    <td>
