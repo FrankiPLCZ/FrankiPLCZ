@@ -1,7 +1,6 @@
 ### Hi there 👋
 [![Spotify](https://novatorem-alpha-green.vercel.app/api/spotify)](https://open.spotify.com/user/11125642620)
 
-<div style="background-color: yellow">some *blue* text</div>
 <!--
 **FrankiPLCZ/FrankiPLCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
