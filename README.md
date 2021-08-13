@@ -15,7 +15,7 @@
   
   <p align="center">
     
-    [![Spotify](https://novatorem-alpha-green.vercel.app/api/spotify)](https://open.spotify.com/user/11125642620)
+   &nbsp; <br> [![Spotify](https://novatorem-alpha-green.vercel.app/api/spotify)](https://open.spotify.com/user/11125642620)
     
   </p>
 <!--
