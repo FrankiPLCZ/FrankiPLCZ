@@ -1,4 +1,4 @@
- <div style="width:800px; margin:0 auto;">### Hi there 👋 </div>
+ <p align="center">### Hi there 👋 </p>
 <div>
   <table width="100%"> 
   <tr>
@@ -13,11 +13,11 @@
   
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
   
-  <div style="width:800px; margin:0 auto;">
+  <p align="center">
     
     [![Spotify](https://novatorem-alpha-green.vercel.app/api/spotify)](https://open.spotify.com/user/11125642620)
     
-  </div>
+  </p>
 <!--
 **FrankiPLCZ/FrankiPLCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
