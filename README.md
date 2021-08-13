@@ -1,5 +1,7 @@
 ### Hi there 👋
-<img src=”https://i.pinimg.com/564x/db/28/81/db2881f811be5d79e16a83cfa5b83674.jpg”>
+[![Spotify](https://novatorem-alpha-green.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+
 <!--
 **FrankiPLCZ/FrankiPLCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
