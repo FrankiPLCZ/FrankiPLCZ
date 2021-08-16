@@ -40,6 +40,13 @@
    <td>
             Looking for employment 
    </td>
+         <tr>
+   <td>
+           :sweat: My newest problem
+   </td>
+   <td>
+            Just dicovered that there is not enough space on free 1Gb github for my projects :sweat: 
+   </td>
    <tr>
    <td>
      :headphones: Right now Vibing to :headphones:
