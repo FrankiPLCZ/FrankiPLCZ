@@ -31,7 +31,7 @@
             👯 I’m looking to collaborate on
    </td>
    <td>
-            :video_game: GAME :video_game:
+           I would love to have someone do animations for my app :heartpulse: 
    </td>
    <tr>
    <td>
@@ -45,7 +45,7 @@
            :sweat: My newest problem
    </td>
    <td>
-            Just dicovered that there is not enough space on free 1Gb github for my projects :sweat: 
+            I have cat named Mereorleona and only I'm able to call her :cat2:
    </td>
    <tr>
    <td>
