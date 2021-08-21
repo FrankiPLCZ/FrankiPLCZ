@@ -38,14 +38,14 @@
            ⚡ Fun fact 
    </td>
    <td>
-            Looking for employment 
+            I have cat named Mereorleona and only I'm able to call her cause no one can say it :cat2:
    </td>
          <tr>
    <td>
-           :sweat: My newest problem
+          ⚡ Fun fact #2
    </td>
    <td>
-            I have cat named Mereorleona and only I'm able to call her :cat2:
+          Looking for employment :eyes:  
    </td>
    <tr>
    <td>
