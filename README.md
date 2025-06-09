@@ -35,12 +35,15 @@
    </td>
    <tr>
    <td>
-           ⚡ Fun fact 
+           ⚡ Fun fact #1
    </td>
    <td>
             Tenth of profit from workes found here shall be given to Potocki 
    </td>
-         <tr>
+   <tr>
+   <td>
+           ⚡ Fun fact #2
+   </td>
    <td>
           Looking for employment :eyes:  
    </td>
