@@ -38,12 +38,9 @@
            ⚡ Fun fact 
    </td>
    <td>
-            I have cat named Mereorleona and only I'm able to call her cause no one can say it :cat2:
+            Tenth of profit from workes found here shall be given to Potocki 
    </td>
          <tr>
-   <td>
-          ⚡ Fun fact #2
-   </td>
    <td>
           Looking for employment :eyes:  
    </td>
