@@ -53,10 +53,8 @@
    </td>
    <td>
     
-   &nbsp; <br>   [![Spotify](https://novatorem-alpha-green.vercel.app/api/spotify)](https://open.spotify.com/user/11125642620)
+   &nbsp; <br>   <p align="center"> [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=11125642620&cover_image=true&theme=default)](https://open.spotify.com/user/11125642620)</p>
 
-   [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=11125642620&cover_image=true&theme=default)](https://open.spotify.com/user/11125642620)
-    
    </td>
    </table>
 
