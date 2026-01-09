@@ -53,7 +53,7 @@
    </td>
    <td>
     
-   &nbsp; <br>   <p align="center"> [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=11125642620&cover_image=true&theme=default)](https://open.spotify.com/user/11125642620)</p>
+   &nbsp; <br>   <p align="center"> [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=11125642620&cover_image=true&theme=spotify-embed)](https://open.spotify.com/user/11125642620)</p>
 
    </td>
    </table>
