@@ -57,6 +57,7 @@
     
    </td>
    </table>
+   ![Chess.com Stats](https://chess-stats.vercel.app/api?username=FrankiPLW)
 
 
 
